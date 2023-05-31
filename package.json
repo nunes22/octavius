@@ -1,8 +1,8 @@
 {
-  "name": "dr-octopus",
+  "name": "octavius",
   "displayName": "Octavius - Fullstack Extension Pack",
   "description": "Fullstack pack",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "publisher": "cnunes22",
   "engines": {
     "vscode": "^1.78.0"
