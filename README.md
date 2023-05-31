@@ -1,13 +1,31 @@
-# dr-octopus 
+# Octavius
 
-> VSCode Extension pack
-
-![clipart544130](https://github.com/cironunes/tg/assets/469908/0f7ab1b2-063e-4a74-b2d2-11e14a55f352)
+> Opinionated Fullstack VSCode Extension pack
 
 ## Contents
 
-- Themes/Icons
-- TypeScript/NodeJS/React
-- Rust
-- Flutter
+### Languages
 
+- JS/Node/TypeScript/React
+- Deno
+- Rust
+- Dart/Flutter
+- GraphQL
+- Markdown
+
+### Tools
+
+- Docker
+- K8s
+- Git
+- NX
+
+###  Theming
+
+Theme: Tokyo Night Ported NVim
+Icons: Monokai Pro
+
+### Misc
+
+- Beaultiful code screenshots with Code Snap
+- CSV

@@ -1,15 +1,27 @@
 {
   "name": "dr-octopus",
-  "displayName": "dr-octopus",
+  "displayName": "Octavius - Fullstack Extension Pack",
   "description": "Fullstack pack",
   "version": "0.0.1",
+  "publisher": "cnunes22",
   "engines": {
     "vscode": "^1.78.0"
+  },
+  "repository": {
+    "url": "https://github.com/nunes22/octavius"
   },
   "categories": [
     "Extension Packs"
   ],
   "extensionPack": [
+    "ms-azuretools.vscode-docker",
+    "ms-kubernetes-tools.vscode-kubernetes-tools",
+    "serayuzgur.crates",
+    "panicbit.cargo",
+    "JScearcy.rust-doc-viewer",
+    "rust-lang.rust-analyzer",
+    "Swellaby.vscode-rust-test-adapter",
+    "tamasfe.even-better-toml",
     "adpyke.codesnap",
     "alexisvt.flutter-snippets",
     "apollographql.vscode-apollo",
