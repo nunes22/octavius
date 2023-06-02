@@ -1,0 +1,71 @@
+# themes
+"arcticicestudio.nord-visual-studio-code", 
+"ArgyleInk.kung-fury", 
+"Tyriar.theme-topaz", 
+"tinkertrain.theme-panda", 
+"nataliefruitema.modern-purple-theme", 
+"dracula-theme.theme-dracula", 
+"ahmadawais.shades-of-purple", 
+"Equinusocio.vsc-community-material-theme", 
+"Equinusocio.vsc-material-theme", 
+"jvitorfrancisco.theme-acid-purple", 
+
+# icons
+"vscode-icons-team.vscode-icons", 
+"equinusocio.vsc-material-theme-icons", 
+
+# rust
+"serayuzgur.crates", 
+"panicbit.cargo", 
+"JScearcy.rust-doc-viewer", 
+"rust-lang.rust-analyzer", 
+"Swellaby.vscode-rust-test-adapter", 
+"tamasfe.even-better-toml", 
+
+# ms tools
+"ms-azuretools.vscode-docker", 
+"ms-kubernetes-tools.vscode-kubernetes-tools", 
+
+# elixir/phoenix
+"JakeBecker.elixir-ls", 
+"phoenixframework.phoenix", 
+
+# vue
+"Vue.volar", 
+
+# astro
+"astro-build.astro-vscode", 
+
+# cloud providers
+"amazonwebservices.aws-toolkit-vscode", 
+"googlecloudtools.cloudcode", 
+"atlassian.atlascode", 
+"GitHub.copilot", 
+
+# jest
+"firsttris.vscode-jest-runner", 
+
+# flow
+"flowtype.flow-for-vscode", 
+
+# csv
+"estivo.csv-editor", 
+"phplasma.csv-to-table", 
+"janisdd.vscode-edit-csv", 
+
+
+"ms-dotnettools.csharp", 
+"ms-vscode-remote.remote-containers", 
+"ms-vscode.azure-repos", 
+"ms-vscode.hexeditor", 
+"ms-vscode.live-server", 
+"ms-vscode.remote-repositories", 
+"ms-vscode.test-adapter-converter", 
+"ms-vsliveshare.vsliveshare", 
+"ms-vsliveshare.vsliveshare-pack", 
+
+# tailwind
+"sastan.twind-intellisense", 
+
+# other
+"vsls-contrib.codetour", 

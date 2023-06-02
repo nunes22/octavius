@@ -2,7 +2,7 @@
   "name": "octavius",
   "displayName": "Octavius - Fullstack Extension Pack",
   "description": "Fullstack pack",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "cnunes22",
   "engines": {
     "vscode": "^1.78.0"
@@ -51,7 +51,6 @@
     "MisterMunchkin.simple-markdown-snippets",
     "Nash.awesome-flutter-snippets",
     "nrwl.angular-console",
-    "PKief.material-icon-theme",
     "rangav.vscode-thunder-client",
     "redhat.vscode-yaml",
     "sburg.vscode-javascript-booster",
